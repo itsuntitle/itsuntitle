@@ -65,16 +65,6 @@ Android movie application built with Kotlin and Jetpack Compose.
 
 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/itsuntitle">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>---
-
-<h3 align="center">⭐ Thanks for visiting my profile!</h3></p>---
-
-📫 Connect With Me
-
 <a href="https://www.linkedin.com/in/abolfazl-khalili-71195330a">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
