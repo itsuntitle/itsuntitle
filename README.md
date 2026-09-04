@@ -1,70 +1,46 @@
 👋 Hi, I'm Abolfazl
 
-📱 Android Developer | Kotlin Enthusiast
+📱 Android Developer | Kotlin
 
-I'm an Android developer focused on building modern and clean Android applications with Kotlin and Jetpack Compose.
-
-I enjoy learning new technologies, improving my development skills, and turning ideas into real applications.
-
----
-
-🚀 About Me
-
-- 📱 Android Developer
-- 💜 Kotlin
-- 🎨 Jetpack Compose
-- 🏗️ MVVM / MVI
-- 🌐 Retrofit / Ktor
-- 🗄️ Room
-- 🔥 Firebase
-- 🧰 Git & GitHub
+I'm an Android developer focused on building modern Android applications using Kotlin and Jetpack Compose.
 
 ---
 
 🛠️ Tech Stack
 
-Android
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,compose,git,github,firebase,ktor,gradle" />
+</p>---
 
-"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-"Android" (https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-"Jetpack Compose" (https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-Libraries & Tools
-
-"Retrofit" (https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
-"Ktor" (https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-"Room" (https://img.shields.io/badge/Room-6DB33F?style=for-the-badge)
-"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-📱 Featured Projects
+🚀 Projects
 
 🎬 NoxMovie
 
-Android movie application built with Kotlin and Jetpack Compose.
+A small Android VOD application built with Kotlin.
 
-Tech: Kotlin • Jetpack Compose • Retrofit • OMDb API • ExoPlayer
--
+📰 News Flash Mini
+
+A lightweight Android news application built with Jetpack Compose, Retrofit and Coil.
+
+---
 
 📊 GitHub Stats
 
-"Abolfazl's GitHub stats" (https://github-readme-stats.vercel.app/api?username=itsuntitle&show_icons=true&theme=tokyonight)
-
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsuntitle&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuntitle&layout=compact&theme=tokyonight" height="170"/>
+</p>---
 
 🔥 GitHub Streak
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=itsuntitle&theme=tokyonight)
-
----
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=itsuntitle&theme=tokyonight" />
+</p>---
 
 📫 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/abolfazl-khalili-71195330a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<a href="https://www.linkedin.com/in/abolfazl-khalili-71195330a">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>---
 
----
-
-⭐️ From "itsuntitle" (https://github.com/itsuntitle)
+⭐️ Thanks for visiting my profile!
