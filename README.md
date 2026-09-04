@@ -56,12 +56,6 @@
 
 Android movie application built with Kotlin and Jetpack Compose.
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsuntitle&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuntitle&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
 
 🔥 GitHub Streak
 
@@ -78,12 +72,6 @@ Android movie application built with Kotlin and Jetpack Compose.
 </p>---
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3></p>---
-
-🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=itsuntitle&theme=tokyonight" />
-</p>---
 
 📫 Connect With Me
 
