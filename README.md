@@ -89,9 +89,10 @@ Android movie application built with Kotlin and Jetpack Compose.
 
 <a href="https://www.linkedin.com/in/abolfazl-khalili-71195330a">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-
+<a href="https://t.me/its_untitle">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" />
+</a>
 ---
 
 ⭐️ Thanks for visiting my profile!
