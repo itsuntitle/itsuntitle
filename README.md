@@ -22,15 +22,31 @@
   <img src="https://skillicons.dev/icons?i=kotlin,android,gradle" />
 </p>🧩 Jetpack & Architecture
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
-</p>Jetpack Compose • Material 3 • Navigation Compose • Room
+<h3 align="center">🚀 Tech Stack</h3>
 
-Dagger Hilt • MVVM • MVI
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%203-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+</p>
 
-Coroutines • Flow
+<p align="center">
+  <img src="https://img.shields.io/badge/Dagger%20Hilt-FF6F00?style=for-the-badge&logo=dagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 
-Voyager • Lottie
+<p align="center">
+  <img src="https://img.shields.io/badge/MVVM-6DB33F?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVI-FF4081?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Voyager-6C63FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white"/>
+</p>
 
 ---
 
