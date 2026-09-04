@@ -93,6 +93,6 @@ Android movie application built with Kotlin and Jetpack Compose.
 <a href="https://t.me/its_untitle">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" />
 </a>
----
+
 
 ⭐️ Thanks for visiting my profile!
